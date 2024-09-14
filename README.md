@@ -3,9 +3,9 @@
 
 ```mermaid
 classDiagram
-    Iphone <|-- ReprodutorMusical
-    Iphone <|-- AparelhoTelefonico
-    Iphone <|-- NavegadorDeInternet
+    Iphone --|> ReprodutorMusical
+    Iphone --|> AparelhoTelefonico
+    Iphone --|> NavegadorDeInternet
 
  
 
