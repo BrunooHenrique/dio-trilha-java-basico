@@ -5,7 +5,7 @@
 classDiagram
     Iphone <|-- ReprodutorMusical
     Iphone <|-- AparelhoTelefonico
-    Iphone <|-- NavegadorWeb
+    Iphone <|-- NavegadorDeInternet
 
  
 
